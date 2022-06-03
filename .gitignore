@@ -1,0 +1,18 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+instructions_for_me.txt
+99-deploy-storage-fun.js
+FunWithStorage.sol
+gas_report.txt
+.env.example
+ExampleContracts
+
+
+#Hardhat files
+cache
+artifacts
+ExampleContracts
+deployments
